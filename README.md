@@ -3,7 +3,7 @@
 ## Домашнее задание "Знакомство с языком Python"
 
 ### Статус: :white_check_mark: Выполнено
-### Ссылка на решение: 👨🏻‍💻[ссылка](https://github.com/KlimTester/Skypro_python_homeworks/tree/main/Lesson1.)
+### Ссылка на решение: 👨🏻‍💻[ссылка](https://github.com/KlimTester/Skypro_python_homeworks/tree/main/Lesson1)
 
 ### Описание:
 
