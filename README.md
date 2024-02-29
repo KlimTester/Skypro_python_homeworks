@@ -22,7 +22,7 @@
 
 ### Использованные ресурсы:
 - [Официальная документация Python](https://docs.python.org/3/)
-- [Статья на сайте Habr]([https://habr.com/ru/post/...](https://habr.com/ru/articles/794078/)https://habr.com/ru/articles/794078/)
+- [Статья на сайте Habr](https://habr.com/ru/articles/794078/)
 
 
 
