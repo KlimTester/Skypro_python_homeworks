@@ -2,5 +2,5 @@
 
 ## 1. Знакомство с языком Python
 - **Статус:** Выполнено
-- **Ссылка на решение:** [ссылка](ссылка_на_решение)
+- **Ссылка на решение:** [ссылка](https://github.com/KlimTester/Skypro_python_homeworks/tree/lesson1/Lesson1)
 
