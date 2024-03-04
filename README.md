@@ -32,5 +32,5 @@
 - [Официальная документация Python](https://docs.python.org/3/)
 - [Статья на сайте Habr](https://habr.com/ru/articles/794078/)
 
-
+## 2️⃣ Базовые алгоритмы на Python
 
