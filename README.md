@@ -53,5 +53,5 @@
 
  ### Использованные ресурсы:
 - [Официальная документация Python](https://docs.python.org/3/)
-- [Ссылка на Книгу]()  
+- [Python Исчерпывающее руководство](https://drive.google.com/file/d/1HTOaHaPuv634YoTyIiVoBFufgXbcSJBm/view?usp=sharing)
 
