@@ -4,6 +4,7 @@
 
 - [Знакомство с языком Python](#Знакомство-с-языком-Python)
 - [Базовые алгоритмы на Python](#Базовые-алгоритмы-на-Python)
+- [ООП в Python](#ООП-в-Python)
   
 -------
 
@@ -55,3 +56,8 @@
 - [Официальная документация Python](https://docs.python.org/3/)
 - [Python Исчерпывающее руководство](https://drive.google.com/file/d/1HTOaHaPuv634YoTyIiVoBFufgXbcSJBm/view?usp=sharing)
 
+-------
+
+## ООП в Python
+
+-------
