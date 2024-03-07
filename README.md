@@ -78,3 +78,4 @@
 
  ### Использованные ресурсы:
 - [Python Глазами Хакера](https://drive.google.com/file/d/1HQDPfS4-KLWQ80TTolesBG2nmncetaaO/view?usp=sharing)
+- [ООП на Python Учебное пособие](https://drive.google.com/file/d/1Ylu5ocLmjXORWros6M8DXhvujQuJmHvY/view?usp=sharing)
