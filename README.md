@@ -54,7 +54,7 @@
 2. Выполнить упражнения
 3. Пройти разделы тренажера Python
 
- ### Использованные ресурсы:
+### Использованные ресурсы:
 - [Официальная документация Python](https://docs.python.org/3/)
 - [Python Исчерпывающее руководство](https://drive.google.com/file/d/1HTOaHaPuv634YoTyIiVoBFufgXbcSJBm/view?usp=sharing)
 
@@ -79,7 +79,7 @@
 3. Нарисовать картинку
 4. Пройти разделы тренажера Python
 
- ### Использованные ресурсы:
+### Использованные ресурсы:
 - [Python Глазами Хакера](https://drive.google.com/file/d/1HQDPfS4-KLWQ80TTolesBG2nmncetaaO/view?usp=sharing)
 - [ООП на Python Учебное пособие](https://drive.google.com/file/d/1Ylu5ocLmjXORWros6M8DXhvujQuJmHvY/view?usp=sharing)
 
@@ -103,7 +103,7 @@
 2. Написать unit-тесты
 3. Пройти разделы тренажера Python
 
- ### Использованные ресурсы:
+### Использованные ресурсы:
 - [Pytest Первое Знакомство](https://youtu.be/Sxiwo1pAZos?si=neQtGnR1Kw0YUal7)
 
 -------
@@ -126,6 +126,6 @@
 2. Написать unit-тесты
 3. Пройти разделы тренажера Python
 
-   ### Использованные ресурсы:
+### Использованные ресурсы:
 - [Ваш Первый АВТО-ТЕСТ Selenium + Python / Пишем авто-тесты для начинающих](https://youtu.be/1B6oEy3x6VI?si=k2gxxYClSkQgmbsy)
 
