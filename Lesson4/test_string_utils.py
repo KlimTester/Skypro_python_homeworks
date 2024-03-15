@@ -7,13 +7,13 @@ class TestStringUtils:
         assert StringUtils.is_palindrome("racecar") == True
     
     def test_is_palindrome_negative(self):
-        assert StringUtils.is_palindrome("Тачка") == False
+        assert StringUtils.is_palindrome("hello") == False
     
     def test_reverse_string_positive(self):
-        assert StringUtils.reverse_string("Тачка") == "акчаТ"
+        assert StringUtils.reverse_string("hello") == "olleh"
     
     def test_reverse_string_numbers(self):
-        assert StringUtils.reverse_string("123456789") == "987654321"
+        assert StringUtils.reverse_string("12345") == "54321"
     
     # Negative scenarios
     def test_is_palindrome_empty_string(self):
@@ -35,13 +35,3 @@ class TestStringUtils:
     def test_reverse_string_none(self):
         with pytest.raises(TypeError):
             StringUtils.reverse_string(None)
-
-
-
-
-
-
-
-
-
-
