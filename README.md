@@ -117,15 +117,24 @@
 
 ### Описание:
 
-- [x] Написать unit-тесты
-- [x] Пройти разделы тренажера Python
-- [x] Подготовка к собеседованию. Работа с рабочей тетрадью и логическая задача.
+- [x] Изучить дополнительные материалы
+- [x] Найти локаторы
+- [x] Написать скрипты
+- [x] Тренироваться решать задачи
+- [x] Подготовка к собеседованию. Работа с рабочей тетрадью и логическая задача
 
 ### План выполнения:
 1. Изучить материалы курса
-2. Написать unit-тесты
-3. Пройти разделы тренажера Python
+2. Найти локаторы
+3. Написать скрипты
 
 ### Использованные ресурсы:
 - [Ваш Первый АВТО-ТЕСТ Selenium + Python / Пишем авто-тесты для начинающих](https://youtu.be/1B6oEy3x6VI?si=k2gxxYClSkQgmbsy)
+- [Справочник HTML-тегов](https://developer.mozilla.org/ru/docs/Web/HTML/Element/a.)
+- [Полезная статья](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048.)
+- [Шпаргалка по локаторам](https://cheatography.com/janesh/cheat-sheets/css-selectors-for-selenium-webdriver/.)
+- [Материалы про XPath1](https://habr.com/ru/company/skyeng/blog/588282/.)
+- [Материалы про XPath2](https://habr.com/ru/company/otus/blog/596071/.)
+- [Игра-тренажер](https://flukeout.github.io.)
+- [Чекер локаторов](https://www.w3schools.com/cssref/trysel.php.)
 
