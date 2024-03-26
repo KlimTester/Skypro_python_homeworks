@@ -1,0 +1,5 @@
+Локатор кнопки Войти - <//*[@id="stickyHeader"]/div[3]/div[1]>
+Локатор кнопки Заказы - <//*[@id="stickyHeader"]/div[3]/div[2]>
+Локатор ссылки OZON Job (в футере) - <//*[@id="layoutPage"]/div[1]/div[4]/div/div/div[5]/div/footer/div/div[1]/a>
+Локатор выбора валюты (верхний левый угол страницы) - <//*[@id="layoutPage"]/div[1]/div[1]/div/div/button>
+Локатор выпадашки Везде (в поисковой строке) - <//*[@id="stickyHeader"]/div[2]/div/div/form/div/div[1]/span[1]>

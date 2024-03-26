@@ -1,0 +1,7 @@
+Локатор логотипа (html-елемент, содержащий в себе значок и слово "авиасейлс") - </html/body/div[1]/div/div/a/span>
+Локатор поля Откуда - <//*[@id="avia_form_origin-input"]>
+Локатор поля Куда - <//*[@id="avia_form_destination-input"]>
+Локатор поля Когда - </html/body/div[7]/div[2]/div/div/div/div[2]/form/div[1]/div/button[1]>
+Локатор поля Обратно - </html/body/div[7]/div[2]/div/div/div/div[2]/form/div[1]/div/button[2]>
+Локатор чек-бокса "Открыть Ostrovok.ru в новой вкладке" - </html/body/div[7]/div[2]/div/div/div/div[2]/form/footer/div/label/span[2]>
+Локатор кнопки Найти билеты - </html/body/div[7]/div[2]/div/div/div/div[2]/form/div[3]/button>
