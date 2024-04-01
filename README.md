@@ -1,6 +1,6 @@
 -------
 <h2>SkyPro - "Автоматизация тестирования Python"</h2>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdsaWR5aGtseDE2NGJkaHNib3ZtdHFsczA3ZGYzNmE1cDl4aGtwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" height="200">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdsaWR5aGtseDE2NGJkaHNib3ZtdHFsczA3ZGYzNmE1cDl4aGtwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" height="175">
 <ul>
   
 - [Знакомство с языком Python](#Знакомство-с-языком-Python)
