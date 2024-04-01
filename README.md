@@ -10,9 +10,7 @@
 - [Расширенные практики Selenium](#Расширенные-практики-Selenium)
   
 -------
-
 ## Знакомство с языком Python
-
 -------
 
 ### Статус: :white_check_mark: Выполнено
@@ -36,9 +34,7 @@
 - [Статья на сайте Habr](https://habr.com/ru/articles/794078/)
 
 -------
-
 ## Базовые алгоритмы на Python
-
 -------
 
 ### Статус: :white_check_mark: Выполнено
@@ -60,9 +56,7 @@
 - [Python Исчерпывающее руководство](https://drive.google.com/file/d/1HTOaHaPuv634YoTyIiVoBFufgXbcSJBm/view?usp=sharing)
 
 -------
-
 ## ООП в Python
-
 -------
 
 ### Статус: :white_check_mark: Выполнено
@@ -85,9 +79,7 @@
 - [ООП на Python Учебное пособие](https://drive.google.com/file/d/1Ylu5ocLmjXORWros6M8DXhvujQuJmHvY/view?usp=sharing)
 
 -------
-
 ## Знакомство с Pytest
-
 -------
 
 ### Статус: :white_check_mark: Выполнено
@@ -108,9 +100,7 @@
 - [Pytest Первое Знакомство](https://youtu.be/Sxiwo1pAZos?si=neQtGnR1Kw0YUal7)
 
 -------
-
 ## Учимся писать автоматизированные UI-тесты
-
 -------
 
 ### Статус: :white_check_mark: Выполнено
@@ -140,9 +130,7 @@
 - [Чекер локаторов](https://www.w3schools.com/cssref/trysel.php.)
 
 -------
-
 ## Расширенные практики Selenium
-
 -------
 
 ### Статус: :white_check_mark: Выполнено
