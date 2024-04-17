@@ -4,14 +4,14 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 # from selenium.webdriver.common.by import By
 
-from pages.BuyOnStorePage import BuyOnStorePage
+from Pages.BuyInOnlineStorePage import BuyInOnlineStorePage
 
 
 def test_buy_on_store():
     browser = webdriver.Chrome(
         service=ChromeService(ChromeDriverManager().install()))
 
-    buy = BuyOnStorePage(browser)
+    buy = BuyINOnlineStorePage(browser)
     buy.authorization_username('standard_user')
     buy.authorization_password('secret_sauce')
     buy.add_to_cart()

@@ -4,14 +4,14 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 # from selenium.webdriver.common.by import By
 
-from pages.InputFormPage import InputFormPage
+from Pages.FillingTheFormPage import FillingTheFormPage
 
 
 def test_unput_form():
     browser = webdriver.Chrome(
         service=ChromeService(ChromeDriverManager().install()))
 
-    input_form = InputFormPage(browser)
+    input_form = FillingTheFormPage(browser)
     input_form.input_form_first_name('Иван')
     input_form.input_form_last_name('Петров')
     input_form.input_form_address('Ленина, 55-3')

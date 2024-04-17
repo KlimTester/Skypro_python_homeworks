@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
 
-class BuyOnStorePage():
+class BuyInOnlineStore():
     def __init__(self, driver):
         self._driver = driver
         self._driver.get('https://www.saucedemo.com/')
