@@ -1,40 +1,42 @@
 from selenium.webdriver.common.by import By
 
 
-class FillingTheFormPage():
+class InputFormPage():
     def __init__(self, driver):
         self._driver = driver
         self._driver.get('https://bonigarcia.dev/selenium-webdriver-java/data-types.html')
 
-    def input_form_first_name(self, term):
+    def first_name(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="first-name"]').send_keys(term)
 
-    def input_form_last_name(self, term):
+    def last_name(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="last-name"]').send_keys(term)
 
-    def input_form_address(self, term):
+    def address(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="address"]').send_keys(term)
 
-    def input_form_zip_code(self, term):
+    def zip_code(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="zip-code"]').send_keys(term)
 
-    def input_form_city(self, term):
+    def city(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="city"]').send_keys(term)
 
-    def input_form_country(self, term):
+    def country(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="country"]').send_keys(term)
 
-    def input_form_e_mail(self, term):
+    def e_mail(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="e-mail"]').send_keys(term)
 
-    def input_form_phone(self, term):
+    def phone(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="phone"]').send_keys(term)
 
-    def input_form_job_position(self, term):
+    def job_position(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="job-position"]').send_keys(term)
 
-    def input_form_company(self, term):
+    def company(self, term):
         self._driver.find_element(By.CSS_SELECTOR, '[name="company"]').send_keys(term)
+
+    def submit(self):
         self._driver.find_element(By.CSS_SELECTOR, '[type="submit"]').click()
 
     def alert_danger(self):

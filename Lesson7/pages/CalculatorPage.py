@@ -15,10 +15,10 @@ class CalculatorPage():
         delay.send_keys(term)
 
     def click(self):
-        self._driver.find_element(By.XPATH, '//*[@id="calculator"]/div[2]/span[1]').click()
-        self._driver.find_element(By.XPATH, '//*[@id="calculator"]/div[2]/span[4]').click()
-        self._driver.find_element(By.XPATH, '//*[@id="calculator"]/div[2]/span[2]').click()
-        self._driver.find_element(By.XPATH, '//*[@id="calculator"]/div[2]/span[15]').click()  
+        self._driver.find_element(By.XPATH, "//*[contains(text(),'7')]").click()
+        self._driver.find_element(By.XPATH, "//*[contains(text(),'+')]").click()
+        self._driver.find_element(By.XPATH, "//*[contains(text(),'8')]").click()
+        self._driver.find_element(By.XPATH, "//*[contains(text(),'=')]").click()
 
     def screen(self):
         screen = self._driver.find_element(By.CSS_SELECTOR, 'div.screen')
